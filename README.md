@@ -6,7 +6,7 @@ Rodrigo Guimaraes Pinheiro Pascolato - 388
 
 utilizei o GPT-5.6 Luna e utilizei as seguintes prompts
 
-#pq no meu codigo de poo o package ta bugando e n ta rodando o codigo (enviei o codigo)?
+#me ajuda nisso aqui (enviei o codigo do ProcessarPedidos) e pedi para ele resolver o problema de  quando a pessoa comprava zero pc e ele mandava "pedido enviado" (basicamente ele fez essa classe toda pra mim pois n fazia ideia de como fazer isso)
 
 #da problema usar construtores antes dos metodos nesse meu codigo (enviei o codigo)?
 
@@ -17,6 +17,10 @@ utilizei o GPT-5.6 Luna e utilizei as seguintes prompts
 #crie essas promocoes (enviei a foto dos computadores que deveriam ser criados para poupar um pouco de tempo enquanto fazia outra parte do codigo e mesmo assim ele fez um pouco errado e eu tive q arrumar no final, ele acabou confundindo nomos e as config dando mais #trabalhho do q ajudando no final das contas)
 
 #me ajaudaa nsee metodo de comprar computador e por que nao esta funcionando (mandei uma print) e nao estava funcionando pq a estrutura de repeticao estava toda errada e nao estava funcionando corretamente
+
+#como eu crio pasta para organizar o codigo? (dai ele me ensinou oq eu tinha q fazer para crias as packages pq eu n fazia ideia de como era)
+
+#pq no meu codigo de poo o package ta bugando e n ta rodando o codigo (enviei o codigo)?
 
 #pq o valor total da compra esta dando errado?? (o codigo so estava somando o primeiro computador com a matricula)
 
